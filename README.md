@@ -1,2 +1,2 @@
 # Basic-Java
-Review of all basic 
+Review of all basic Java technologies
